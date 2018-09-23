@@ -18,7 +18,8 @@ To Consume the Produced Message - One message at a time.
 
 GET http://localhost:8080/consume
 
-After testing this sucessfully, 
+After testing this sucessfully,
+
 a) You can now Stop RabbitMQ, 
 
 b) Comment @Configuration annotation of ConnFactory Bean
